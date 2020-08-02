@@ -1,0 +1,4 @@
+Huaidong Yang (hyang380)
+	Contribution 50%: distribute_vector; gather_vector; distribute_matrix;transpose_bcast_vector; collecting data on Pace; writing reports.
+Yingdan Wu (ywu624)
+	Contribution 50%: distributed_matrix_vector_mult; distributed_jacobi； collecting data on Pace; Debug; Comments on code; Writing reports.
